@@ -38,3 +38,7 @@ Thumbs.db
 /*.exe
 /*.apk
 /*.dll
+
+/Mono/
+/*_Data/
+/unityAIPaitent_Data/
