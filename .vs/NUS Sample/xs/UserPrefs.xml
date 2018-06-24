@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{11C40783-E425-1192-992E-EA0E0F7B6D1C}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Paitent/HumanController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Camera/CameraController.cs" Line="25" Column="1" />
+      <File FileName="Assets/Scripts/Paitent/HumanController.cs" Line="14" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
